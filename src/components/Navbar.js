@@ -16,7 +16,7 @@ export default function Navbar() {
         </nav>
         <div>
         <p className="flex items-center text-xl font-normal text-black-500 dark:text-black-400">
-          <span className="inline-flex p-2 mr-3 bg-yellow-300 rounded-full dark:bg-yellow-600">
+          <span className="inline-flex p-2 mr-3 bg-yellow-300 rounded-full dark:bg-yellow-300">
             <span>Currently open to C2C roles only! Visa - H1B</span>
           </span>
         </p>
