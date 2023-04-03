@@ -1,4 +1,4 @@
-import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
+import { BadgeCheckIcon } from "@heroicons/react/solid";
 import React from "react";
 import { advancedSkills, intermediateSkills, beginnerSkills } from "../data";
 
@@ -6,12 +6,12 @@ export default function Skills() {
   return (
     <section id="skills">
       <div className="container px-5 py-10 mx-auto">
-        <div className="text-center mb-10">
+        {/* <div className="text-center mb-10">
           <ChipIcon className="w-10 inline-block mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-pink-600 mb-4">
             Skills &amp; Technologies
           </h1>
-        </div>
+        </div> */}
         <h4 className="text-left sm:text-2xl text-2xl pl-20 font-medium title-font text-green-400 mb-4">
           Advanced Level
         </h4>
@@ -23,7 +23,7 @@ export default function Skills() {
                 <span className="title-font font-medium text-white mr-5">
                   {val.skill}
                 </span>
-                <span class="bg-green-100 text-green-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300">{val.proficiency}</span>
+                <span className="bg-green-100 text-green-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300">{val.proficiency}</span>
               </div>
             </div>
           ))}
@@ -40,7 +40,7 @@ export default function Skills() {
                 <span className="title-font font-medium text-white mr-5">
                   {val.skill}
                 </span>
-                <span class="bg-yellow-100 text-yellow-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-yellow-900 dark:text-yellow-300">{val.proficiency}</span>
+                <span className="bg-yellow-100 text-yellow-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-yellow-900 dark:text-yellow-300">{val.proficiency}</span>
               </div>
             </div>
           ))}
@@ -57,7 +57,7 @@ export default function Skills() {
                 <span className="title-font font-medium text-white mr-5">
                   {val.skill}
                 </span>
-                <span class="bg-pink-100 text-pink-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-pink-900 dark:text-pink-300">{val.proficiency}</span>
+                <span className="bg-pink-100 text-pink-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-pink-900 dark:text-pink-300">{val.proficiency}</span>
               </div>
             </div>
           ))}

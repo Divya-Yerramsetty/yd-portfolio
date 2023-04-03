@@ -13,13 +13,17 @@ export default function About() {
           </h1>
           
           <p className="mb-8 leading-relaxed text-2xl font-medium">
-            UI Developer | Experience in Insurance | E-Commerce | Travel booking apps | Energy | Fin-Tech Domains
+            User Interface (UI) / Full Stack Developer | Experience in Insurance | E-Commerce | Travel booking apps | Energy | Fin-Tech Domains
           </p>
           <p className="mb-8 leading-relaxed text-xl font-medium">
             Total IT Experience - 9 yrs | US Experience - 6 yrs | Located in Texas (Open to Relocate)
           </p>
           <div className="flex justify-center">
-          <Link to="/contact" className="inline-flex text-black bg-yellow-300 border-0 py-2 px-6 focus:outline-none hover:bg-pink-600 rounded text-lg">
+          <a className="inline-flex text-black bg-yellow-300 border-0 py-2 px-6 focus:outline-none hover:bg-pink-600 rounded text-lg"
+            href="./Divya.docx" download>
+          <button>Dowload Resume</button>
+          </a>
+          <Link to="/contact" className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-pink-600 hover:text-white rounded text-lg">
             Contact
           </Link>
           <Link to="/experience" className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-pink-600 hover:text-white rounded text-lg">
@@ -29,7 +33,6 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            // className="object-cover object-center rounded"
             className="rounded-bl-3xl rounded-tr-3xl"
             alt="hero"
             src="./Div.jpeg"

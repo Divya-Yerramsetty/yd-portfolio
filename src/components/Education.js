@@ -11,7 +11,7 @@ export default function Education() {
                   <img src="./academic.svg" alt="cap"/>
                 </span>
                 <h3 className="mb-2 text-3xl font-semibold text-pink-600 dark:text-white">Masters in Information Science</h3>
-                <time className="block text-lg mb-2 text-sm font-normal leading-none text-black-400 dark:text-black-500">Graduated in May, 2018</time>
+                <time className="block text-lg mb-2 text-lg font-normal leading-none text-black-400 dark:text-black-500">Graduated in May, 2018</time>
                 <p className="text-base text-lg font-bold text-black-500 dark:text-black-400">University of North Texas</p>
             </li>
             <li className="ml-6">
@@ -19,7 +19,7 @@ export default function Education() {
                   <img src="./academic.svg" alt="cap"/>
                 </span>
                 <h3 className="mb-2 text-3xl font-semibold text-pink-600 dark:text-white">Bachelors in Mechanical Engineering</h3>
-                <time className="block text-lg mb-2 text-sm font-normal leading-none text-black-400 dark:text-black-500">Graduated in May, 2013</time>
+                <time className="block text-lg mb-2 text-lg font-normal leading-none text-black-400 dark:text-black-500">Graduated in May, 2013</time>
                 <p className="text-base text-lg font-bold text-black-500 dark:text-black-400">Institute of Aeronautical Engineering affiliated to JNTUH</p>
             </li>
           </ol>
