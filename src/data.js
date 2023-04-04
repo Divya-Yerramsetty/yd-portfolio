@@ -134,6 +134,8 @@ export const advancedSkills = [
   {skill: "React", proficiency: "6 yrs"},
   {skill: "Redux", proficiency: "4 yrs"},
   {skill: "Responsive Web", proficiency: "6 yrs"},
+  {skill: "CI/CD", proficiency: "6 yrs"},
+  {skill: "Git/GitHub/GitLab", proficiency: "6 yrs"},
 ];
 
 export const intermediateSkills = [
