@@ -146,6 +146,7 @@ export const intermediateSkills = [
   {skill: "NodeJS", proficiency: "3 yrs"},
   {skill: "Material UI", proficiency: " 4yrs"},
   {skill: "LESS/SASS", proficiency: " 4yrs"},
+  {skill: "Tailwind CSS", proficiency: " 4yrs"},
 ];
 
 export const beginnerSkills = [
