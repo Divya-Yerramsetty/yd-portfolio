@@ -155,6 +155,7 @@ export const beginnerSkills = [
   {skill: "Azure", proficiency: "2 yrs"},
   {skill: "NoSQL", proficiency: "2 yrs"},
   {skill: "MySQL", proficiency: "2 yrs"},
+  {skill: "MongoDB", proficiency: "2 yrs"},
   {skill: "NextJS", proficiency: "2 yrs"},
   {skill: "GCP", proficiency: "1 yr"},
 ];
