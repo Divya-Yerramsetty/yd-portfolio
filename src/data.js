@@ -142,6 +142,7 @@ export const intermediateSkills = [
   {skill: "Redux-Middleware", proficiency: "3 yrs"},
   {skill: "React-testing-library/Jest", proficiency: "3 yrs"},
   {skill: "TypeScript", proficiency: "3 yrs"},
+  {skill: "Microservices", proficiency: "3 yrs"},
   {skill: "NodeJS", proficiency: "3 yrs"},
   {skill: "Material UI", proficiency: " 4yrs"},
   {skill: "LESS/SASS", proficiency: " 4yrs"},
