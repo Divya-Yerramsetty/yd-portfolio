@@ -4,7 +4,7 @@ export default function Contact() {
   
   return (
     <section id="contact" className="relative">
-      <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
+      <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap animate-fade-in-up">
         <p className="block w-full p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-100 dark:border-gray-100 dark:hover:bg-gray-100">
           <h6 className="text-pink-600 sm:text-2xl text-xl mb-1 font-medium title-font">Please reach me at</h6>
           <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-900">Email: divya92ui@gmail.com</h5>

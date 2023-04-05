@@ -5,7 +5,7 @@ export default function Experience() {
   return (
     <section id="education" className="text-black-400 body-font">
       <div className="container px-5 py-10 mx-auto lg:px-20 h-auto">
-        <div className="flex flex-col w-full mb-20">
+        <div className="flex flex-col w-full mb-20 animate-fade-in-down">
           <ol className="relative border-l border-gray-200 dark:border-gray-200">
             {experience.map((val) => (
               <li className="mb-10 ml-6">

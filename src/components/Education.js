@@ -5,7 +5,7 @@ export default function Education() {
     <section id="education" className="text-black-400 body-font">
       <div className="container px-5 py-10 mx-auto lg:px-20 h-auto">
         <div className="flex flex-col w-full mb-20">
-          <ol className="relative border-l border-gray-200 dark:border-gray-700">                  
+          <ol className="relative border-l border-gray-200 dark:border-gray-700 animate-fade-in-down">                  
             <li className="mb-10 ml-6">
                 <span className="absolute flex items-center justify-center w-6 h-6 -left-3 ring-8 ring-white">
                   <img src="./academic.svg" alt="cap"/>

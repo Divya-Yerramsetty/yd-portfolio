@@ -12,7 +12,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
         </div> */}
-        <h4 className="text-left sm:text-2xl text-2xl pl-20 font-medium title-font text-green-400 mb-4">
+        <h4 className="text-left sm:text-2xl text-2xl pl-20 font-medium title-font text-green-500 mb-4 animate-fade-in-left">
           Advanced Level
         </h4>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
@@ -29,7 +29,7 @@ export default function Skills() {
           ))}
         </div>
 
-        <h4 className="text-left sm:text-2xl text-2xl pl-20 font-medium title-font text-yellow-400 mb-4">
+        <h4 className="text-left sm:text-2xl text-2xl pl-20 font-medium title-font text-yellow-500 mb-4 animate-fade-in-left">
           Intermediate Level
         </h4>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
@@ -46,7 +46,7 @@ export default function Skills() {
           ))}
         </div>
         
-        <h4 className="text-left sm:text-2xl text-2xl pl-20 font-medium title-font text-pink-400 mb-4">
+        <h4 className="text-left sm:text-2xl text-2xl pl-20 font-medium title-font text-pink-500 mb-4 animate-fade-in-left">
           Beginner Level
         </h4>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
