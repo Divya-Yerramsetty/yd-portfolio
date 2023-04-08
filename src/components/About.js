@@ -35,7 +35,7 @@ export default function About() {
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
             className="rounded-bl-3xl rounded-tr-3xl"
-            alt="hero"
+            alt="profile_pic"
             src="./Div.jpeg"
             height = "350px"
             width = "350px"
