@@ -131,7 +131,7 @@ export const advancedSkills = [
   {skill: "HTML5", proficiency: "8 yrs"},
   {skill: "CSS3", proficiency: "8 yrs"},
   {skill: "JavaScript", proficiency: "8 yrs"},
-  {skill: "React", proficiency: "6 yrs"},
+  {skill: "React/React-hooks", proficiency: "6 yrs"},
   {skill: "Redux", proficiency: "4 yrs"},
   {skill: "Responsive Web", proficiency: "6 yrs"},
   {skill: "CI/CD", proficiency: "6 yrs"},
