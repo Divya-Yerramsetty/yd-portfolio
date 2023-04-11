@@ -151,6 +151,7 @@ export const intermediateSkills = [
 ];
 
 export const beginnerSkills = [
+  {skill: "Angular", proficiency: "2 yrs"},
   {skill: "AWS", proficiency: "2 yrs"},
   {skill: "Azure", proficiency: "2 yrs"},
   {skill: "NoSQL", proficiency: "2 yrs"},
