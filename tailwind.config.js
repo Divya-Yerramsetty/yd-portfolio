@@ -44,9 +44,9 @@ module.exports = {
         '0%': { opacity: '0', transform: 'translateX(-20px)' },
         '100%': { opacity: '1', transform: 'translateX(0)' }
       },
-      typing: {
-        from: { width: "0" },
-        to: { width: "14ch" }
+      'typing': {
+        'from': { width: "0" },
+        'to': { width: "14ch" }
       },
       'blink': {
         '0%': { "border-right-color": "transparent" },
@@ -59,7 +59,7 @@ module.exports = {
       'fade-in-up': 'fade-in-up 1s ease-out',
       'fade-in-left': 'fade-in-left 1s ease-out',
       //'typing': 'typing 2s steps(60), blink 0.1s'
-      typing: "typing 1.5s steps(14)"
+      'typing': 'typing 1.5s steps(14)'
     }
   },
   variants: {

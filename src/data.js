@@ -96,21 +96,22 @@ export const experience = [
     ],
     environment:'HTML5, CSS3, REMIXJS (in-house framework), ReactJS, Redux, JavaScript, Node-Express, Java, Oracle, Jenkins, Bitbucket, Bamboo.'
   },
+  // {
+  //   company:"Tango Analytics - Irving, TX",
+  //   date:"Jan 2017 – Apr 2018",
+  //   role:"UI Developer (Part time)",
+  //   responsibilities: [
+  //     'Involved in ReactJS, RXJS, NodeJS, ES6/5 for developing UI.',
+  //     'Analyzed Management needs and designed the application to match perfect visualization.',
+  //     'Created different components using React lifecycle components in web applications.',
+  //     'Used Webpack and NPM to manage dependency graphs.',
+  //     'Developed Validation forms using JavaScript.',
+  //     'Tested React components and applications using Jest and Enzyme.',
+  //     'Used GIT for version control.'
+  //   ],
+  //   environment:'HTML, CSS, JavaScript, ReactJS, NodeJS, Typescript, ES6/5, NPM, Webpack, No SQL, GIT, Jest and Enzyme.'
+  // },
   {
-    company:"Tango Analytics - Irving, TX",
-    date:"Jan 2017 – Apr 2018",
-    role:"UI Developer (Part time)",
-    responsibilities: [
-      'Involved in ReactJS, RXJS, NodeJS, ES6/5 for developing UI.',
-      'Analyzed Management needs and designed the application to match perfect visualization.',
-      'Created different components using React lifecycle components in web applications.',
-      'Used Webpack and NPM to manage dependency graphs.',
-      'Developed Validation forms using JavaScript.',
-      'Tested React components and applications using Jest and Enzyme.',
-      'Used GIT for version control.'
-    ],
-    environment:'HTML, CSS, JavaScript, ReactJS, NodeJS, Typescript, ES6/5, NPM, Webpack, No SQL, GIT, Jest and Enzyme.'
-  },{
     company:"Cyient Ltd – Hyderabad, India ",
     date:"Aug 2013 – Jun 2016",
     role:"Front-End Developer",

@@ -17,11 +17,11 @@ export default function About() {
             User Interface (UI) / Full Stack Developer | Experience in Insurance | E-Commerce | Travel booking apps | Energy | Fin-Tech Domains
           </p>
           <p className="mb-8 px-4 leading-relaxed text-xl font-medium animate-fade-in-left">
-            Total IT Experience - Around 9 yrs | US Experience - 6 yrs | Open to Relocate
+            Total IT Experience - Around 7.5 yrs | Open to Relocate
           </p>
           <div className="flex justify-center">
             <a className="inline-flex text-black bg-yellow-300 border-0 py-2 px-6 focus:outline-none hover:bg-pink-600 rounded text-lg"
-              href="./Divya.docx" download>
+              href="./DivyaY.pdf" download>
             <button>Dowload Resume</button>
             </a>
             <Link to="/contact" className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-pink-600 hover:text-white rounded text-lg">
